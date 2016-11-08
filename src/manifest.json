@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Everywhere.js Google Chrome Extension Boilerplate",
+  "version": "1.0",
+  "description": "Replace me with a description for your Google Chrome Extension",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html",
+    "default_title": "Tooltip Text"
+  }
+}
