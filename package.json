@@ -16,8 +16,8 @@
     "url": "https://github.com/parkertm/everywhere.js-chrome/issues"
   },
   "homepage": "https://github.com/parkertm/everywhere.js-chrome#readme",
-  "dependencies": {
-    "babel": "^6.23.0",
+  "dependencies": {},
+  "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2"
