@@ -1,0 +1,19 @@
+{
+  "name": "chrome",
+  "version": "1.0.0",
+  "description": "Replace with a description of your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkertm/everywhere.js-chrome.git"
+  },
+  "author": "parker mccurley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parkertm/everywhere.js-chrome/issues"
+  },
+  "homepage": "https://github.com/parkertm/everywhere.js-chrome#readme"
+}
